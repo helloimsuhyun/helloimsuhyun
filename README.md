@@ -4,7 +4,7 @@
 📏 Depth Estimation  
 🎯 Detection & Segmentation  
 
-📄 **Curriculum Vitae (PDF)** → [Download CV](./myCV (2025_dec).pdf)
+📄 **Curriculum Vitae (PDF)** → [Download CV](./mycv_2025_dec.pdf)
 
 I’m driven by how robots perceive and reason about the 3D world.
 
