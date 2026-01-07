@@ -1,10 +1,7 @@
-### 🤖 Suhyun Choi — Robotics & 3D Perception
+### 🤖 Suhyun Choi
 
-🌐 3D Scene Understanding  
-📏 Depth Estimation  
-🎯 Detection & Segmentation  
-
-I’m driven by how robots perceive and reason about the 3D world.
+- 3D Scene Understanding · Visual Localization 
+- Anomaly Detection (2D/3D) · Detection & Segmentation
 
 🏫 Robotics Engineering @ HYU ERICA  
 🛠️ Python · PyTorch · ROS2 · OpenCV  
