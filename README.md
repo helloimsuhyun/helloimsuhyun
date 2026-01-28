@@ -10,9 +10,9 @@
 
 ### 🔗 simple projects
 
-- [UR5e Virtual Spring–Damper Demo](https://github.com/<your-id>/ur5e-virtual-spring-damper-demo)
-- [CCTV Tailgating Detection](https://github.com/<your-id>/cctv-tailgating-detection)
-- [Vision-based Lane Following (Sliding Window)](https://github.com/<your-id>/lane_detection)
+- [UR5e Virtual Spring–Damper Demo](https://github.com/helloimsuhyun/ur5e-virtual-spring-damper-demo)
+- [CCTV Tailgating Detection](https://github.com/helloimsuhyun/cctv-tailgating-detection)
+- [Vision-based Lane Following (Sliding Window)](https://github.com/helloimsuhyun/lane_detection)
 
 
 
