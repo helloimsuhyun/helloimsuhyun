@@ -1,8 +1,9 @@
 ### 🤖 Suhyun Choi
 
-- State Estimation · Sensor Fusion
-- Optimal Control
-- Learning-based Perception and Control
+- Visual Perception
+- Embodied AI
+- Learning-based Perception and Action
+
 
 🏫 Robotics Engineering @ HYU ERICA  
 🛠️ Python · PyTorch · ROS2 · OpenCV  
