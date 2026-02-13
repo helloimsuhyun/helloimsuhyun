@@ -1,8 +1,10 @@
 ### 🤖 Suhyun Choi
 
-- Visual Perception
-- Embodied AI
-- Learning-based Perception and Action
+focused on vision-based manipulation and Robot Intelligence
+
+- 3D vision & Pose Estimation
+- Grasp Planning & Robot Manipulation
+- VLA for Robotics
 
 
 🏫 Robotics Engineering @ HYU ERICA  
