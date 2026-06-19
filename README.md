@@ -35,6 +35,3 @@ Focused on robot vision, 3D perception, and manipulation.
 
 - [Vision-based Lane Following](https://github.com/helloimsuhyun/lane_detection)  
   Camera-based lane detection and steering angle calculation for line following.
-
-- [Vision-based Lane Following](https://github.com/helloimsuhyun/lane_detection)  
-  Camera-based lane detection and steering angle calculation for line following.
