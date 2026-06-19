@@ -27,13 +27,14 @@ Focused on robot vision, 3D perception, and manipulation.
 - [UR5e Virtual Spring–Damper Demo](https://github.com/helloimsuhyun/ur5e-virtual-spring-thesis-demo)  
   Virtual spring-damper control demo using UR5e.
 
+- [RD-ConvNeXt Anomaly Detection](https://github.com/helloimsuhyun/rd-convnext-anomaly-detection)  
+  Reverse Distillation-based anomaly detection with a ConvNeXt backbone.
+
 - [CCTV Tailgating Detection](https://github.com/helloimsuhyun/tailgating_detection_simpledemo)  
   Simple CCTV-based tailgating detection demo.
 
 - [Vision-based Lane Following](https://github.com/helloimsuhyun/lane_detection)  
   Camera-based lane detection and steering angle calculation for line following.
 
-
-
-
-
+- [Vision-based Lane Following](https://github.com/helloimsuhyun/lane_detection)  
+  Camera-based lane detection and steering angle calculation for line following.
